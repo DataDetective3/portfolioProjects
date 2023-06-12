@@ -20,4 +20,4 @@ For more details on this case study, check out my
 
 
 For other projects, check out my portfolio project at
-- Projects Portfolio: **<a href="https://github.com/DataDetective3/DataDetective3.github.io" rel="nofollow">Bandele David Olamide</a>**
+- Projects Portfolio: **<a href="https://datadetective3.github.io/" rel="nofollow">Bandele David Olamide</a>**
