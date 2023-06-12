@@ -16,8 +16,8 @@ Raw Dataset Available from: **<a href="https://divvy-tripdata.s3.amazonaws.com/i
 
 For more details on this case study, check out my 
 - Tableau at: **<a href="https://public.tableau.com/app/profile/david.olamide.bandele/viz/BikeShareCyclisticCaseStudy/TRIPDATA" rel="nofollow">Cyclistic Case Study Data Visualization</a>**
-- Medium at: **<a href="https://" rel="nofollow">Steps for Cyclistic Bike Share Data Analysis</a>**
+- Medium at: **<a href="https://medium.com/@davidolamidebandele/cyclistic-bike-share-case-study-affa20a1f8c6" rel="nofollow">Steps for Cyclistic Bike Share Data Analysis</a>**
 
 
 For other projects, check out my portfolio project at
-- Projects Portfolio: **<a href="https://" rel="nofollow">Bandele David Olamide</a>**
+- Projects Portfolio: **<a href="https://github.com/DataDetective3/DataDetective3.github.io" rel="nofollow">Bandele David Olamide</a>**
